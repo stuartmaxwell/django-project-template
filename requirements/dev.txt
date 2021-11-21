@@ -1,0 +1,7 @@
+-r base.txt
+django-debug-toolbar
+black
+flake8
+rich
+pytest
+pytest-django
